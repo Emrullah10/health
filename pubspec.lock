@@ -83,6 +83,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  franco:
+    dependency: "direct main"
+    description:
+      name: franco
+      sha256: d4661f82afaa0fa0a3090b57d1bb9633de9a2de8057561d899e8af09a57d9248
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
   leak_tracker:
     dependency: transitive
     description:
